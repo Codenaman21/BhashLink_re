@@ -1,0 +1,7 @@
+__pycache__
+.spyproject
+data/
+english_to_isl_gloss.py
+idea.txt
+sign_interpret.py
+interpreter.py
