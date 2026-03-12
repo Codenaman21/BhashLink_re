@@ -69,17 +69,9 @@ Then open `http://127.0.0.1:5000` in your browser.
 
 ## 🎬 Walkthrough
 
-[![Explore BhasaLink through the walkthrough youtube video:](https://img.youtube.com/vi/CQR0fR5rgO0/maxresdefault.jpg)](https://www.youtube.com/watch?v=CQR0fR5rgO0)
+[![Explore BhasaLink through the walkthrough youtube video:](https://img.youtube.com/vi/A9-HPU5MQ7/maxresdefault.jpg)](https://www.youtube.com/watch?v=A9-HPU5MQ7)
 
 ---
-
-## 👥 Contributors
-
-| Name               | Role                        |
-| ------------------ | --------------------------- |
-| **Naman Sachdeva** | AI/ML + Backend Development |
-| **Tarun Barkoti**  | Backend + Database          |
-| **Stuti Kanguo**   | Frontend Development        |
 
 > Want to contribute or explore more? **DM for full access and we’ll get you onboard!** 🚀
 
